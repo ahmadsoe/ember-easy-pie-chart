@@ -1,4 +1,4 @@
-# Ember-easy-pie-chart
+# Ember-easy-pie-chart [![Build Status](https://travis-ci.org/ahmadsoe/ember-easy-pie-chart.svg?branch=master)](https://travis-ci.org/ahmadsoe/ember-easy-pie-chart)
 
 A pie chart component for [ember-cli](http://www.ember-cli.com/) using [easy-pie-chart](https://github.com/rendro/easy-pie-chart/).
 
