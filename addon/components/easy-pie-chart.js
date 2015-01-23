@@ -27,6 +27,6 @@ export default Ember.Component.extend({
     }.on('didInsertElement'),
 
     destroyEasyPie: function() {
-        this.get('easy-pie-chart').destroy();
+        this.destroy();
     }.on('willDestroyElement'),
 });
